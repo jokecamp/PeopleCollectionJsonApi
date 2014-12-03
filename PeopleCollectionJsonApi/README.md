@@ -1,6 +1,8 @@
-﻿# Demo API
+﻿# Collection+JSON Hypermedia Demo API
 
 ### Joe Kampschmidt
+
+Uses the libraries from [WebApiContrib/CollectionJson.Net](https://github.com/WebApiContrib/CollectionJson.Net)
 
 An adaptation of the [friends api sample](https://github.com/WebApiContrib/CollectionJson.Net) for education puproses.
 
