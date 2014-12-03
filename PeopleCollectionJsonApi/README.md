@@ -6,6 +6,8 @@ Uses the libraries from [WebApiContrib/CollectionJson.Net](https://github.com/We
 
 An adaptation of the [friends api sample](https://github.com/WebApiContrib/CollectionJson.Net) for education puproses.
 
+If you don't have anything better then I suggest downloading the [VS 2013 Community edition (free)](http://www.visualstudio.com/en-us/news/vs2013-community-vs.aspx)
+
 ## Required nuget packages
 
 	Install-Package CollectionJson.Server
