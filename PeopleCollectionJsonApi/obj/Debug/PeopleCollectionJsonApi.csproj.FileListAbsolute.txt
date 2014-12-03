@@ -1,0 +1,6 @@
+D:\github\PeopleCollectionJsonApi\PeopleCollectionJsonApi\bin\Debug\PeopleCollectionJsonApi.exe.config
+D:\github\PeopleCollectionJsonApi\PeopleCollectionJsonApi\bin\Debug\PeopleCollectionJsonApi.exe
+D:\github\PeopleCollectionJsonApi\PeopleCollectionJsonApi\bin\Debug\PeopleCollectionJsonApi.pdb
+D:\github\PeopleCollectionJsonApi\PeopleCollectionJsonApi\obj\Debug\PeopleCollectionJsonApi.csprojResolveAssemblyReference.cache
+D:\github\PeopleCollectionJsonApi\PeopleCollectionJsonApi\obj\Debug\PeopleCollectionJsonApi.exe
+D:\github\PeopleCollectionJsonApi\PeopleCollectionJsonApi\obj\Debug\PeopleCollectionJsonApi.pdb
