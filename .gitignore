@@ -41,3 +41,10 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+bin
+PeopleCollectionJsonApi\bin
+PeopleCollectionJsonApi\obj
+obj
+*.suo
+
+PeopleCollectionJsonApi/PeopleCollectionJsonApi.v12.suo
